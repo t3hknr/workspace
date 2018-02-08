@@ -1,0 +1,33 @@
+[submodule "common_clang"]
+	path = common_clang
+	url = https://github.com/intel/opencl-clang
+[submodule "llvm_patches"]
+	path = llvm_patches
+	url = https://github.com/intel/llvm-patches
+[submodule "gmmlib"]
+	path = gmmlib
+	url = https://github.com/intel/gmmlib
+[submodule "igc"]
+	path = igc
+	url = https://github.com/intel/intel-graphics-compiler
+[submodule "khronos"]
+	path = khronos
+	url = https://github.com/KhronosGroup/OpenCL-Headers
+[submodule "libdrm"]
+	path = libdrm
+	url = https://anongit.freedesktop.org/git/mesa/drm.git
+[submodule "neo"]
+	path = neo
+	url = https://github.com/intel/compute-runtime
+[submodule "gtest"]
+	path = gtest
+	url = https://github.com/google/googletest
+[submodule "gmock"]
+	path = gmock
+	url = https://github.com/google/googlemock
+[submodule "llvm_source"]
+	path = llvm_source
+	url = https://github.com/llvm-mirror/llvm
+[submodule "clang_source"]
+	path = clang_source
+	url = https://github.com/llvm-mirror/clang
